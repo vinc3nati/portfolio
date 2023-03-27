@@ -1,7 +1,7 @@
 # From ------------- to
-/ https://www.vinitkanse.com
-/index.html https://www.vinitkanse.com
-/blogs.html https://www.vinitkanse.com#blogs
-/projects.html https://www.vinitkanse.com/projects
-/motivation.html https://www.vinitkanse.com#blogs
-/difference-btw.html https://www.vinitkanse.com#blogs
+https://vinit-kanse.netlify.app/ https://www.vinitkanse.com 301!
+https://vinit-kanse.netlify.app/index.html https://www.vinitkanse.com 301!
+https://vinit-kanse.netlify.app/blogs.html https://www.vinitkanse.com#blogs 301!
+https://vinit-kanse.netlify.app/projects.html https://www.vinitkanse.com/projects 301!
+https://vinit-kanse.netlify.app/motivation.html https://www.vinitkanse.com#blogs 301!
+https://vinit-kanse.netlify.app/difference-btw.html https://www.vinitkanse.com#blogs 301!
